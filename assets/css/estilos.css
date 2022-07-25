@@ -13,10 +13,6 @@ a{
   vertical-align: text-bottom;
 }
 
-.thumbnail{
-  max-height: 200px;
-}
-
 .carousel-item{
   background-size: cover;
   max-height: 600px;
